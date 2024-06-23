@@ -1,0 +1,25 @@
+.homePage{
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+  a{
+    text-decoration: none;
+    color: white;
+    width: 30%;
+    height: 20%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 40px;
+    
+  }
+  .chart{
+    height: 70%;
+    width: 50%;
+  }
+}
